@@ -1,0 +1,6 @@
+
+1. Matplotlib history and architecture
+
+http://www.aosabook.org/en/matplotlib.html
+
+
